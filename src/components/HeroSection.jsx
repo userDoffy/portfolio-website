@@ -12,7 +12,7 @@ export const HeroSection = () => {
             <span className="opacity-0 animate-fade-in"> Hi, I'm</span>
             <span className="text-primary opacity-0 animate-fade-in-delay-1">
               {" "}
-              Aaditya 
+              Aaditya
             </span>
             <span className="text-gradient ml-2 opacity-0 animate-fade-in-delay-2">
               {" "}
@@ -21,9 +21,10 @@ export const HeroSection = () => {
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            I create stellar software with modern technologies.
-            Specializing in backend-end development, I build interfaces that are
-            both beautiful and functional.
+            Enthusiastic and detail-oriented individual with a strong background in Software
+            Development. Experienced with different technology background and
+            eager to learn and contribute in different collaborative projects in a dynamic software
+            development environment.
           </p>
 
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">
