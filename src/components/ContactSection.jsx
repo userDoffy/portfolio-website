@@ -4,6 +4,7 @@ import {
   Mail,
   MapPin,
   Phone,
+  Github,
 } from "lucide-react";
 
 export const ContactSection = () => {
@@ -32,10 +33,10 @@ export const ContactSection = () => {
                 </div>
                 <h4 className="font-medium">Email</h4>
                 <a
-                  href="mailto:adhungana09@gmail.com"
+                  href="mailto:aaditya.dhungana025@gmail.com"
                   className="text-muted-foreground hover:text-primary transition-colors"
                 >
-                  adhungana09@gmail.com
+                  aaditya.dhungana025@gmail.com
                 </a>
               </div>
 
@@ -74,11 +75,11 @@ export const ContactSection = () => {
                   <Linkedin />
                 </a>
                 <a
-                  href="https://www.instagram.com/aaditya__dhungana/"
+                  href="https://github.com/AadityaDhungana"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <Instagram />
+                  <Github />
                 </a>
               </div>
             </div>

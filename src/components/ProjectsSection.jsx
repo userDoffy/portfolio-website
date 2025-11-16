@@ -8,7 +8,7 @@ const projects = [
     image: "/projects/project1.png",
     tags: ["MERN", "SocketIO", "Tailwind", "AES"],
     demoUrl: "https://kura-indol.vercel.app/",
-    githubUrl: "https://github.com/userDoffy/Kura",
+    githubUrl: "https://github.com/AadityaDhungana/Kura---Encrypted-Chat-Application",
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ const projects = [
     image: "/projects/project2.png",
     tags: ["MERN", "Bootstrap", "Gutenberg API"],
     demoUrl: "https://book-sphere-mern.vercel.app/",
-    githubUrl: "https://github.com/userDoffy/BookSphere_MERN",
+    githubUrl: "https://github.com/AadityaDhungana/BookSphere_MERN",
   },
   {
     id: 3,
@@ -25,7 +25,7 @@ const projects = [
     description:"An online arts gallery built with Django, showcasing artworks with a modern design and interactive features.",
     image: "/projects/project3.png",
     tags: ["Django", "Bootstrap", "JavaScript"],
-    githubUrl: "https://github.com/userDoffy/Online_Arts_Gallery----Django",
+    githubUrl: "https://github.com/AadityaDhungana/Online_Arts_Gallery----Django",
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ const projects = [
     description: "A bank loan approval application using scikit learn machine learning model and django authentication..",
     image: "/projects/project4.png",
     tags: ["Scikit-learn", "Django", "Bootstrap"],
-    githubUrl: "https://github.com/userDoffy/Bank-Loan-Approval--ML-Django-Project",
+    githubUrl: "https://github.com/AadityaDhungana/Bank-Loan-Approval--ML-Django-Project",
   },
   {
     id: 5,
@@ -41,7 +41,7 @@ const projects = [
     description:"A Deep Learning project using BERT Model to identify spam email with help of Tensorflow and Django.",
     image: "/projects/project5.png",
     tags: ["Tensorflow", "Django", "Bootstrap"],
-    githubUrl: "https://github.com/userDoffy/Spam-Email-Classification-Tensorflow"
+    githubUrl: "https://github.com/AadityaDhungana/Spam-Email-Classification-Tensorflow"
   }
 
 ];
