@@ -59,7 +59,7 @@ export const ContactSection = () => {
                 </div>
                 <h4 className="font-medium">Location</h4>
                 <span className="text-muted-foreground">
-                  Tokha, Kathmandu, Nepal
+                  Dhapasi, Kathmandu, Nepal
                 </span>
               </div>
             </div>
